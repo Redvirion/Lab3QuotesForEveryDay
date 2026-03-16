@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daily Tips</string>
+    <string name="detail_title">Tip Details</string>
+    <string name="day_number">Day %d</string>
+</resources>
