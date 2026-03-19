@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primaryColor">#6200EE</color>
-    <color name="card_stroke_color">#E0E0E0</color>
+    <color name="primaryColor">#100095</color>
+    <color name="card_stroke_color">#C8DAE9B0</color>
 </resources>
