@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="authors">
+        <item>Victor Hugo</item>
+        <item>Albert Einstein</item>
+        <item>Friedrich Nietzsche</item>
+        <item>Nikolai Ostrovsky</item>
+        <item>Mark Twain</item>
+        <item>Aristotle</item>
+        <item>Marie Curie</item>
+        <item>Winston Churchill</item>
+        <item>Henry Ford</item>
+        <item>Theodore Roosevelt</item>
+        <item>Henry Ford</item>
+        <item>Steve Jobs</item>
+        <item>Charles de Gaulle</item>
+        <item>Sigmund Freud</item>
+        <item>Mahatma Gandhi</item>
+        <item>Socrates</item>
+        <item>Ken Kesey</item>
+        <item>Socrates</item>
+        <item>Voltaire</item>
+        <item>Marcus Aurelius</item>
+        <item>Stanisław Jerzy Lec</item>
+        <item>Socrates</item>
+        <item>Omar Khayyam</item>
+        <item>Euripides</item>
+        <item>Lao Tzu</item>
+        <item>René Descartes</item>
+        <item>Albert Einstein</item>
+        <item>Pyotr Tchaikovsky</item>
+        <item>Leo Tolstoy</item>
+        <item>Abraham Lincoln</item>
+    </string-array>
+
+    <string-array name="short_quotes">
+        <item>The greatest happiness is to be loved…</item>
+        <item>Strive not for success, but for meaning…</item>
+        <item>Value what you have…</item>
+        <item>The most precious thing is life…</item>
+        <item>In 20 years you\'ll regret what you didn\'t do…</item>
+        <item>Life is about doing things…</item>
+        <item>There is nothing to fear in life…</item>
+        <item>An optimist sees opportunities…</item>
+        <item>Struggling? You\'re climbing uphill…</item>
+        <item>Do what you can…</item>
+        <item>Think you can – and you\'re right…</item>
+        <item>Work with your head…</item>
+        <item>Choose the hardest path…</item>
+        <item>Compare yourself to your past self…</item>
+        <item>Own experience is worth more…</item>
+        <item>I know that I know nothing…</item>
+        <item>People are your mirror…</item>
+        <item>There is a sun in every person…</item>
+        <item>It\'s hard to change yourself…</item>
+        <item>Thoughts make a person…</item>
+        <item>Instead of bridges, they build walls…</item>
+        <item>Speak, so that I may see you…</item>
+        <item>Only those worse than us think ill of us…</item>
+        <item>A friend is our second self…</item>
+        <item>Don\'t judge without walking in their shoes…</item>
+        <item>I think, therefore I am…</item>
+        <item>Logic vs imagination…</item>
+        <item>Inspiration dislikes the lazy…</item>
+        <item>Thought is the beginning of everything…</item>
+        <item>Most people are as happy as they make up their minds to be…</item>
+    </string-array>
+
+    <string-array name="full_quotes">
+        <item>The greatest happiness in life is the conviction that we are loved – loved for ourselves, or rather, loved in spite of ourselves.</item>
+        <item>Strive not to be a success, but rather to be of value.</item>
+        <item>When you appreciate what you have, instead of chasing ideals, you will truly become happy.</item>
+        <item>Man\'s dearest possession is life. It is given to him but once, and he must live it so as to feel no torturing regrets for wasted years.</item>
+        <item>Twenty years from now you will be more disappointed by the things that you didn\'t do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor.</item>
+        <item>Life is about doing things, not acquiring them.</item>
+        <item>Nothing in life is to be feared, it is only to be understood.</item>
+        <item>The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.</item>
+        <item>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.</item>
+        <item>Do what you can, with what you have, where you are.</item>
+        <item>Whether you think you can, or you think you can\'t – you\'re right.</item>
+        <item>It’s not about working 12 hours, but about using your head.</item>
+        <item>Always choose the hardest path – you will meet no competitors there.</item>
+        <item>The only person with whom you have to compare yourself is you in the past. And the only person better you should be is you now.</item>
+        <item>An ounce of practice is worth more than tons of preaching.</item>
+        <item>I know that I know nothing.</item>
+        <item>Everyone you meet is your mirror.</item>
+        <item>There is a sun in every person. Just let it shine.</item>
+        <item>Think how hard it is to change yourself, and you\'ll understand how little chance you have of changing others.</item>
+        <item>Very little is needed to make a happy life; it is all within yourself, in your way of thinking.</item>
+        <item>People are lonely because they build walls instead of bridges.</item>
+        <item>Speak, so that I may see you.</item>
+        <item>Only those worse than us think ill of us; those better than us have no time for us.</item>
+        <item>A friend is our second self.</item>
+        <item>Never condemn a person until you have walked a long mile in their shoes.</item>
+        <item>I think, therefore I am.</item>
+        <item>Logic will get you from A to B. Imagination will take you everywhere.</item>
+        <item>Inspiration is a guest that does not willingly visit the lazy.</item>
+        <item>Everything is in thoughts. Thought is the beginning of everything. And thoughts can be controlled. Therefore, the main task of self-improvement is to work on your thoughts.</item>
+        <item>Most people are about as happy as they make up their minds to be.</item>
+    </string-array>
+</resources>

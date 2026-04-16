@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Lab3QuotesForEveryDay</string>
+    <string name="app_name">Советы на каждый день</string>
+    <string name="detail_title">Детали совета</string>
+    <string name="day_number">День %d</string>
 </resources>

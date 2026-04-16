@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="image_height">200dp</dimen>
+    <dimen name="detail_image_height">300dp</dimen>
+    <dimen name="title_margin">8dp</dimen>
+    <dimen name="image_margin">8dp</dimen>
+    <dimen name="desc_margin">8dp</dimen>
+    <dimen name="line_spacing">4dp</dimen>
+</resources>
